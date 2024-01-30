@@ -1,9 +1,10 @@
 ---
 tags:
-  - blog
-created: 2024-01-29
+  - type/blogpost
+created: 2024-01-30
 ---
-# Creating a Project Page for Obsidian
+
+# Mastering Aesthetics in Obsidian
 
 Reading the wonderful post by PKM Beth
 ## Install the "banner-image.css" snippet

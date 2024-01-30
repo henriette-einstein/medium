@@ -1,9 +1,13 @@
 ---
-cssclasses: banner-image
+cssclasses:
+  - banner-image
+  - list-cards
 ---
 
 >[!banner-image] ![[Office.png|py-90]]
 >
 
-[[Blog]]
+- ![[Library4.png]][[Areas|Areas]]
+- ![[Hourglass1.png]][[Projects]]
+
 [[12 Centuries in 12 Month]]
