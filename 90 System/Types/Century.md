@@ -4,7 +4,7 @@ tags:
 cssclasses:
   - cards
   - table-max
-  - cards-cols-4
+  - cards-cols-3
 ---
 ```dataview
 table 

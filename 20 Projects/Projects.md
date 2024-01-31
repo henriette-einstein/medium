@@ -1,7 +1,7 @@
 ---
 up: "[[Home]]"
 tags:
-  - type/moc
+  - type/section
 cssclasses:
   - banner-image
 ---

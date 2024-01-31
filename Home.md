@@ -1,13 +1,20 @@
 ---
+created: 2024-01-30
 cssclasses:
-  - banner-image
   - list-cards
+  - table-100
+  - banner-image
+  - cards-cols-3
 ---
 
->[!banner-image] ![[Office.png|py-90]]
+>[!banner-image] ![[Lobby1.png|py-80]]
 >
 
-- ![[Library4.png]][[Areas|Areas]]
-- ![[Hourglass1.png]][[Projects]]
 
-[[12 Centuries in 12 Month]]
+- ![[Postoffice5.png]] [[Inbox]]
+- ![[Hourglass1.png]][[Projects]] 
+- ![[Library4.png]][[Areas|Areas]]
+- ![[Library5.png]] [[Ressources]]
+- ![[Archive2.png]] [[Archive]]
+- ![[Kitchen2.png]] [[System]]
+

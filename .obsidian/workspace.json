@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6195cd90e53228a9",
+            "id": "d2cc9a35dd9a9b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/12 Centuries/12 Centuries in 12 Month.md",
-                "mode": "source",
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Projects/12 Centuries/12 Centuries in 12 Month.md",
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Projects/12 Centuries/12 Centuries in 12 Month.md",
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/12 Centuries/12 Centuries in 12 Month.md"
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md"
               }
             }
           }
@@ -147,31 +147,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6195cd90e53228a9",
+  "active": "d2cc9a35dd9a9b13",
   "lastOpenFiles": [
+    "20 Projects/12 Centuries/Topics.md",
+    "40 Ressources/Images/Places/Place1.png",
+    "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
+    "40 Ressources/Images/Hourglass/Hourglass8_2_3_mini.jpeg",
+    "40 Ressources/Images/Hourglass/Hourglass8_2_3_small.jpeg",
+    "Home.md",
+    "40 Ressources/Images/Postoffice/Postoffice5.png",
+    "40 Ressources/Images/Postoffice/Postoffice4.png",
+    "40 Ressources/Images/Postoffice/Postoffice3.png",
+    "40 Ressources/Images/Postoffice/Postoffice2.png",
+    "40 Ressources/Images/Postoffice/Postoffice1.png",
+    "40 Ressources/Sculpture/Sculpture2.png",
+    "40 Ressources/Sculpture/Sculpture1.png",
+    "90 System/Types/Century.md",
+    "40 Ressources/Images/People",
+    "40 Ressources/Images/Places",
+    "40 Ressources/Sculpture",
+    "40 Ressources/Images/Statue",
+    "40 Ressources/Images/Livingroom",
+    "40 Ressources/Images/Bar",
+    "40 Ressources/Images/Lobby",
+    "40 Ressources/Images/Workplace",
+    "40 Ressources/Images/Postoffice",
+    "20 Projects/12 Centuries/Centuries/12. Century.md",
+    "20 Projects/Projects.md",
+    "90 System/System.md",
+    "50 Archive/Archive.md",
+    "30 Areas/Areas.md",
+    "40 Ressources/Ressources.md",
+    "40 Ressources/Images/Archive",
     "90 System/Templates/Note Template.md",
-    "20 Projects/12 Centuries/12 Centuries in 12 Month.md",
     "README.md",
     "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
-    "40 Ressources/Images/Kitchen/Kitche2.png",
-    "40 Ressources/Images/Kitchen/Kitchen1.png",
-    "40 Ressources/Images/Kitchen",
     "30 Areas/Blog/Blog Posts.md",
-    "30 Areas/Areas.md",
-    "40 Ressources/Images/Study/Study3.png",
-    "40 Ressources/Images/Study/Study2.png",
-    "40 Ressources/Images/Study/Study1.png",
-    "40 Ressources/Images/Study",
-    "40 Ressources/Images/Centuries/10_Century.png",
-    "40 Ressources/Images/Centuries/9_Century.png",
-    "40 Ressources/Images/Centuries/8_Century.png",
-    "40 Ressources/Images/Centuries/7_Century.png",
-    "40 Ressources/Images/Centuries/6_Century.png",
-    "20 Projects/Projects.md",
-    "Home.md",
-    "40 Ressources/Images/Hourglass",
     "20 Projects/12 Centuries/Centuries/13. Century.md",
-    "90 System/Types/Century.md",
     "20 Projects/12 Centuries/Centuries/14. Century.md",
     "20 Projects/12 Centuries/Centuries/15. Century.md",
     "90 System/Templates/Century Template.md",
@@ -180,13 +192,6 @@
     "20 Projects/12 Centuries/Centuries/18. Century.md",
     "20 Projects/12 Centuries/Centuries/19. Century.md",
     "20 Projects/12 Centuries/Centuries/16. Century.md",
-    "90 System/Types",
-    "30 Areas/Blog/Mastering Aesthetics",
-    "40 Ressources/Images/Library",
-    "20 Projects/12 Centuries/Centuries/17. Century.md",
-    "20 Projects/12 Centuries/Centuries",
-    "90 System/Templates",
-    "90 System/Categories",
-    "30 Areas/Blog"
+    "20 Projects/12 Centuries/Centuries/17. Century.md"
   ]
 }
