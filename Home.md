@@ -16,5 +16,5 @@ cssclasses:
 - ![[Library4.png]][[Areas|Areas]]
 - ![[Library5.png]] [[Ressources]]
 - ![[Archive2.png]] [[Archive]]
-- ![[Kitchen2.png]] [[System]]
+- ![[Kitchen5.png]] [[System]]
 

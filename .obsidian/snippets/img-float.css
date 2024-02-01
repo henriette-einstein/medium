@@ -1,0 +1,62 @@
+
+.img-float.markdown-preview-view [data-callout="img-float"] {
+  display: grid;
+  column-gap: 10px;
+  height: auto;
+  align-items: stretch;
+  grid-template-columns: 50% 50%; /* Default value */
+  grid-template-areas: "content title";
+  background: transparent;
+  padding: 0;
+}
+
+/* 1. Place the direct child .callout-title-container to the right and set its width */
+.img-float.markdown-preview-view [data-callout="img-float"]  > .callout-title {
+  grid-area: title;
+}
+
+/* 2. Make the direct child .content take up all remaining space */
+.img-float.markdown-preview-view [data-callout="img-float"]  > .callout-content {
+  grid-area: content;
+  vertical-align: top;
+}
+
+/* 3. Hide .icon inside direct child .title-container of div with data-type="pr" */
+.img-float.markdown-preview-view [data-callout="img-float"]  > .callout-title > .callout-icon {
+  display: none;
+}
+
+.img-float.markdown-preview-view [data-callout="img-float"]  > .callout-title > .callout-title-inner{
+  height: 100%;
+}
+
+/* The title image  */
+.img-float.markdown-preview-view [data-callout="img-float"] > .callout-title img {
+  display: block; /* Ensures that it can be centered */
+  object-fit: cover;
+  align-self: center;
+  max-height: 100%; /* Limit height to parent's height */
+  max-width: 100%; /* Ensure it doesn't overflow */
+  height: 100%; /* Maintain aspect ratio */
+  width: auto; /* Maintain aspect ratio */
+  margin: auto; /* Center the image */
+}
+
+/** Sizing the areas */
+
+
+.img-float.markdown-preview-view [data-callout="img-float"][data-callout-metadata="pr-10"] {
+  grid-template-columns: 90% 10%;
+}
+
+.img-float.markdown-preview-view [data-callout="img-float"][data-callout-metadata="pr-20"] {
+  grid-template-columns: 80% 20%;
+}
+
+.img-float.markdown-preview-view [data-callout="img-float"][data-callout-metadata="pr-30"] {
+  grid-template-columns: 70% 30%;
+}
+
+.img-float.markdown-preview-view [data-callout="img-float"][data-callout-metadata="pr-40"] {
+  grid-template-columns: 60% 40%;
+}

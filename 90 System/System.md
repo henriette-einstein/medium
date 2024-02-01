@@ -6,4 +6,4 @@ created: 2024-01-30
 cssclasses:
   - banner-image
 ---
->[!banner-image] ![[Kitchen2.png|py-60]]
+>[!banner-image] ![[Kitchen5.png|py-60]]

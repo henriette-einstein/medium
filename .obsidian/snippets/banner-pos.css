@@ -10,7 +10,7 @@
   object-position: center 20%;
 }
 
-.banner-image img[alt*="py-30"] {
+.banner-img[alt*="py-30"] {
   object-position: center 30%;
 }
 
