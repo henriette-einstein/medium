@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "74fd718fc9d27f50",
+        "id": "0888d8a4759b366c",
         "type": "tabs",
         "children": [
           {
-            "id": "e32c9c29af7ae855",
+            "id": "e0a337bf1277a123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/12 Centuries/Centuries/11. Century.md",
-                "mode": "source",
+                "file": "20 Projects/12 Centuries/Details.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b34819c20cdfe088",
+            "id": "e288d227a35cf885",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8305fc2e50974114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Areas/Areas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "997c47464f3402d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md"
+                "file": "20 Projects/12 Centuries/12 Centuries in 12 Months.md"
+              }
+            }
+          },
+          {
+            "id": "95276d82305963b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -184,12 +172,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "997c47464f3402d3",
+  "active": "e288d227a35cf885",
   "lastOpenFiles": [
-    "30 Areas/Blog/Blog Posts.md",
-    "30 Areas/Areas.md",
+    "20 Projects/12 Centuries/Details.md",
+    "20 Projects/12 Centuries/Logistics.md",
+    "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
+    "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
+    "20 Projects/12 Centuries/Old Style 12 Centuries in 12 Month.md",
+    "30 Areas/Blog/Mastering Aesthetics/Old Look.png",
+    "30 Areas/Blog/Mastering Aesthetics/New Look.png",
+    "30 Areas/Blog/Mastering Aesthetics/Old Style.png",
+    "20 Projects/12 Centuries/Eras.md",
     "Home.md",
+    "30 Areas/Blog/Blog Posts.md",
+    "20 Projects/12 Centuries/Sources.md",
+    "20 Projects/12 Centuries/Centuries/Sources.md",
+    "90 System/Templates/Person Template.md",
+    "90 System/Templates/Untitled.md",
+    "90 System/Types/Person.md",
+    "90 System/Types/Untitled.md",
+    "20 Projects/12 Centuries/12 Centuries in 12 Month Old School.md",
+    "20 Projects/12 Centuries/12 Centuries in 12 Month old.md",
+    "30 Areas/Areas.md",
     "90 System/System.md",
+    "50 Archive/Archive.md",
+    "40 Ressources/Ressources.md",
     "20 Projects/Projects.md",
     "00 Inbox/Inbox.md",
     "30 Areas/AI/AI.md",
@@ -201,36 +208,16 @@
     "40 Ressources/Images/AI/AI2.png",
     "30 Areas/AI",
     "40 Ressources/Images/Livingroom/Livingroom3.png",
-    "40 Ressources/Images/Bars/Bar6.png",
-    "40 Ressources/Images/Bars/Bar5.png",
-    "40 Ressources/Images/Bars/Bar4.png",
     "40 Ressources/Images/AI",
     "40 Ressources/Images/Globes",
-    "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
-    "20 Projects/12 Centuries/12 Centuries in 12 Months.md",
     "20 Projects/12 Centuries/Centuries/9. Century.md",
     "20 Projects/12 Centuries/Centuries/10. Century.md",
-    "20 Projects/12 Centuries/Centuries/11. Century.md",
-    "20 Projects/12 Centuries/Centuries/12. Century.md",
-    "20 Projects/12 Centuries/Centuries/13. Century.md",
-    "20 Projects/12 Centuries/Centuries/14. Century.md",
-    "20 Projects/12 Centuries/Centuries/15. Century.md",
-    "20 Projects/12 Centuries/Centuries/16. Century.md",
-    "20 Projects/12 Centuries/Centuries/17. Century.md",
-    "20 Projects/12 Centuries/Centuries/18. Century.md",
-    "20 Projects/12 Centuries/Centuries/19. Century.md",
-    "20 Projects/12 Centuries/Centuries/20. Century.md",
-    "20 Projects/12 Centuries/Centuries/21. Century.md",
-    "20 Projects/12 Centuries/Topics.md",
-    "90 System/Types/Century.md",
     "40 Ressources/Images/People",
     "40 Ressources/Images/Places",
     "40 Ressources/Images/Sculptures",
     "40 Ressources/Images/Statues",
     "40 Ressources/Images/Livingroom",
     "40 Ressources/Images/Bars",
-    "40 Ressources/Images/Lobby",
-    "50 Archive/Archive.md",
-    "40 Ressources/Ressources.md"
+    "40 Ressources/Images/Lobby"
   ]
 }

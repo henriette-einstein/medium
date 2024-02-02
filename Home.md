@@ -5,16 +5,13 @@ cssclasses:
   - table-100
   - banner-image
   - cards-cols-3
+  - cards
 ---
-
 >[!banner-image] ![[Lobby1.png|py-80]]
 >
 
 
-- ![[Postoffice5.png]] [[Inbox]]
-- ![[Hourglass1.png]][[Projects]] 
-- ![[Library4.png]][[Areas|Areas]]
-- ![[Library5.png]] [[Ressources]]
-- ![[Archive2.png]] [[Archive]]
-- ![[Kitchen5.png]] [[System]]
-
+```dataview
+table without id banner, ("[["+file.name+"]]") from #type/section 
+sort sortkey
+```

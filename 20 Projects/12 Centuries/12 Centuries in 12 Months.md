@@ -8,18 +8,18 @@ cssclasses:
   - embed-strict
   - img-float
   - cards
-  - cards-cols-4
+  - cards-cols-6
 ---
 >[!banner-image] ![[Office12.png|py-60]]
 
  > [!img-float|pr-30] ![[Hourglass8.png]]
- > ![[Topics]]
+ > ![[Details]]
 
 
 ```dataview
 table 
 banner,
-(dateformat(start,"yyyy") + "-" + dateformat(end,"yyyy")) as "Span" 
+(start.year + "-" + end.year) as "Span" 
 from #type/century and !"90 System"
 where start.year < 2001
 sort start

@@ -1,4 +1,4 @@
-
+/* The callout uses a CSS grid */
 .img-float.markdown-preview-view [data-callout="img-float"] {
   display: grid;
   column-gap: 10px;
@@ -10,22 +10,23 @@
   padding: 0;
 }
 
-/* 1. Place the direct child .callout-title-container to the right and set its width */
+/* Place the direct child .callout-title-container to the right and set its width */
 .img-float.markdown-preview-view [data-callout="img-float"]  > .callout-title {
   grid-area: title;
 }
 
-/* 2. Make the direct child .content take up all remaining space */
+/* Make the direct child .content take up all remaining space */
 .img-float.markdown-preview-view [data-callout="img-float"]  > .callout-content {
   grid-area: content;
   vertical-align: top;
 }
 
-/* 3. Hide .icon inside direct child .title-container of div with data-type="pr" */
+/* Hide .icon inside direct child .title-container of div with data-type="pr" */
 .img-float.markdown-preview-view [data-callout="img-float"]  > .callout-title > .callout-icon {
   display: none;
 }
 
+/* Set the height of the image container */
 .img-float.markdown-preview-view [data-callout="img-float"]  > .callout-title > .callout-title-inner{
   height: 100%;
 }
@@ -42,9 +43,7 @@
   margin: auto; /* Center the image */
 }
 
-/** Sizing the areas */
-
-
+/* Sizing properties for the areas */
 .img-float.markdown-preview-view [data-callout="img-float"][data-callout-metadata="pr-10"] {
   grid-template-columns: 90% 10%;
 }

@@ -5,6 +5,8 @@
     "tags": "tags",
     "created": "date",
     "start": "date",
-    "end": "date"
+    "end": "date",
+    "born": "date",
+    "died": "date"
   }
 }
