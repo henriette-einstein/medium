@@ -12,9 +12,16 @@ cssclasses:
 ---
 >[!banner-image] ![[Office12.png|py-60]]
 
- > [!img-float|pr-30] ![[Hourglass8.png]]
- > ![[Details]]
 
+ > [!img-float|pr-40] ![[Hourglass8.png]]
+ > >[!info]- Logistics
+ > >![[Logistics]]
+ > 
+>> [!Example]- Sources to Refer to
+>> ![[Sources]] 
+>
+>> [!Tip]- Eras
+>> ![[Eras]]
 
 ```dataview
 table 

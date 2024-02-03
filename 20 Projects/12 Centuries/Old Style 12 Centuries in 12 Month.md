@@ -2,8 +2,14 @@
 cssclasses:
   - embed-strict
 ---
+> [!info]- Logistics
+> ![[Logistics]]
 
-![[Details]]
+> [!Example]- Sources to refer to
+> ![[Sources]]
+
+> [!Tip]- Eras
+> ![[Eras]]
 
 ```dataview
 table 
