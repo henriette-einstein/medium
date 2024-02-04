@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0888d8a4759b366c",
+        "id": "82ab0dab63eafdcc",
         "type": "tabs",
         "children": [
           {
-            "id": "e0a337bf1277a123",
+            "id": "45474d9ebfee6444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
-                "mode": "source",
+                "file": "40 Ressources/Ressources.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 283.5
   },
   "right": {
     "id": "ecaa3922eeea57ef",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
+                "file": "40 Ressources/Ressources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
+                "file": "40 Ressources/Ressources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md"
+                "file": "40 Ressources/Ressources.md"
               }
             }
           },
@@ -159,8 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0a337bf1277a123",
+  "active": "45474d9ebfee6444",
   "lastOpenFiles": [
+    "40 Ressources/Images/Company/Company3.png",
+    "40 Ressources/Images/Company/Company2.png",
+    "40 Ressources/Images/Company/Company1.png",
+    "40 Ressources/Images/Company",
+    "40 Ressources/Images/Neuer Ordner",
+    "40 Ressources/Images/Organization/Organization7.png",
+    "40 Ressources/Images/Organization/Organization6.png",
+    "40 Ressources/Images/Organization/Organization5.png",
+    "40 Ressources/Images/Organization/Organization4.png",
+    "40 Ressources/Images/Organization/Organization3.png",
+    "40 Ressources/Images/Organization/Organization2.png",
+    "40 Ressources/Images/Organization/Organization1.png",
+    "40 Ressources/Images/Organization",
+    "40 Ressources/Images/Oil/Oil3.png",
+    "40 Ressources/Images/Oil",
+    "40 Ressources/Images/Religion",
+    "40 Ressources/Images/Events",
+    "Home.md",
+    "30 Areas/Areas.md",
+    "50 Archive/Archive.md",
+    "40 Ressources/Ressources.md",
+    "20 Projects/Projects.md",
+    "00 Inbox/Inbox.md",
     "20 Projects/12 Centuries/Centuries/21. Century.md",
     "20 Projects/12 Centuries/Centuries/20. Century.md",
     "20 Projects/12 Centuries/Centuries/19. Century.md",
@@ -178,34 +201,11 @@
     "30 Areas/Blog/Mastering Aesthetics/Mastering Aesthetics in Obsidian.md",
     "20 Projects/12 Centuries/Old Style 12 Centuries in 12 Month.md",
     "20 Projects/12 Centuries/Sources.md",
-    "30 Areas/Blog/Mastering Aesthetics/Old Look.png",
-    "30 Areas/Blog/Mastering Aesthetics/New Look.png",
-    "30 Areas/Blog/Mastering Aesthetics/Old Style.png",
     "20 Projects/12 Centuries/Logistics.md",
     "20 Projects/12 Centuries/Eras.md",
-    "20 Projects/12 Centuries/Details.md",
-    "Home.md",
-    "30 Areas/Blog/Blog Posts.md",
-    "20 Projects/12 Centuries/Centuries/Sources.md",
-    "90 System/Templates/Person Template.md",
-    "90 System/Templates/Untitled.md",
-    "90 System/Types/Person.md",
-    "40 Ressources/Images/AI/AI5.png",
-    "40 Ressources/Images/AI/AI1.png",
-    "40 Ressources/Images/AI/AI6.png",
-    "40 Ressources/Images/AI/AI4.png",
-    "40 Ressources/Images/AI/AI3.png",
-    "40 Ressources/Images/AI/AI2.png",
     "30 Areas/AI",
-    "40 Ressources/Images/Livingroom/Livingroom3.png",
     "40 Ressources/Images/AI",
     "40 Ressources/Images/Globes",
-    "40 Ressources/Images/People",
-    "40 Ressources/Images/Places",
-    "40 Ressources/Images/Sculptures",
-    "40 Ressources/Images/Statues",
-    "40 Ressources/Images/Livingroom",
-    "40 Ressources/Images/Bars",
-    "40 Ressources/Images/Lobby"
+    "40 Ressources/Images/People"
   ]
 }
