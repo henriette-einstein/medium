@@ -1,6 +1,4 @@
 ---
-up: 
-tags:
-  - type/note
-created: {{date}}
+type: "[[Note Type]]"
+created: "{{date}}"
 ---

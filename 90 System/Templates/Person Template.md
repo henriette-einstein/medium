@@ -1,9 +1,7 @@
 ---
-up: 
-tags:
-  - type/person
-category: 
-created: {{date}}
+type: "[[Person]]"
+collections: 
+created: "{{date}}"
 born: 
 died:
 ---

@@ -1,0 +1,7 @@
+row {
+  display: flexbox;
+}
+
+row > column {
+  color: brown;
+}

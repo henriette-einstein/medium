@@ -4,6 +4,7 @@
   "enabledCssSnippets": [
     "banner",
     "banner-pos",
-    "img-float"
+    "img-float",
+    "multicol"
   ]
 }

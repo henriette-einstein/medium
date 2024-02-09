@@ -1,7 +1,6 @@
 ---
 up: "[[Home]]"
-tags:
-  - type/section
+type: "[[MOC Type]]"
 created: 2024-01-30
 cssclasses:
   - banner-image
@@ -10,6 +9,10 @@ sortkey: 40 Ressources
 ---
 >[!banner-image] ![[Library5.png]]
 
-[[Home]] > **Ressources**
-
-This folder contains various ressources
+- [[MOC Type|MOCs]]
+- [[Period|Periods]]
+- [[Concept Type|Concepts]]
+- [[Person|Persons]]
+- [[Event Type|Events]]
+- [[Image Type|Images]]
+- [[Attachments]]

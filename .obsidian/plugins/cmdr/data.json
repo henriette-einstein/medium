@@ -14,6 +14,12 @@
       "icon": "lucide-diff",
       "name": "Toggle fold properties in current file",
       "mode": "any"
+    },
+    {
+      "id": "backlink:toggle-backlinks-in-document",
+      "icon": "lucide-link",
+      "name": "Backlinks: Toggle backlinks in document",
+      "mode": "any"
     }
   ],
   "macros": [],

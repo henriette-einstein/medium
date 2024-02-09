@@ -1,0 +1,57 @@
+---
+up: "[[9. Century]]"
+type: "[[Note Type]]"
+tags:
+  - status/todo
+created: 2024-02-06
+---
+## 800s
+
+- **800:** [[Charlemagne]] is crowned Emperor of the Romans by Pope Leo III on Christmas Day, marking the revival of the Roman Empire in the West.
+- **802:** Jayavarman II founds the [[Khmer Empire]] in Cambodia, establishing a powerful state that would later construct the monumental temple complexes like [[Angkor Wat]].
+
+## 810s
+
+- **813:** The [[Abbasid Caliphate]] under Caliph al-Ma'mun begins the Mihna, an inquisition to enforce the Mu'tazilite doctrine within Islam.
+- **814:** Charlemagne dies, and his empire begins to show the first signs of fragmentation under his successors.
+
+## 820s
+
+- **825:** The [[Viking Great Heathen Army]] begins to invade the Anglo-Saxon kingdoms of England.
+- **829:** The construction of the Palatine Chapel in Aachen is completed, serving as a model for [[Carolingian Renaissance]] architecture.
+
+## 830s
+
+- **833-842:** The [[Iconoclasm controversy]] ends in the [[Byzantine Empire]] with the restoration of the veneration of icons.
+- **839:** The first recorded [[Viking]] attack on Seville, which was under Muslim control at the time.
+
+## 840s
+
+- **843:** The [[Treaty of Verdun]] divides the Carolingian Empire among Charlemagne's grandsons, leading to the formation of the territories that would become modern France and Germany.
+- **845:** The Vikings, led by Ragnar Lothbrok, sack Paris; [[Charles the Bald]] pays them to leave.
+
+## 850s
+
+- **850:** The [[Book of Fixed Stars]] by the Persian astronomer [[Al-Sufi]] is completed, cataloging stars and describing their positions, magnitudes, and color.
+- **852:** Boris I becomes ruler of [[Bulgaria]], later converting to Christianity and establishing it as the state religion.
+
+## 860s
+
+- **862:** Foundation of the Kievan Rus', according to later chronicles, by the Varangian prince Rurik.
+- **869:** The Fourth Council of Constantinople is convened, addressing issues within the Eastern Orthodox Church.
+
+## 870s
+
+- **873:** The [[Great Summer Army]], another group of Vikings, arrives in England, marking further incursions into Anglo-Saxon territories.
+- **878:** Alfred the Great of Wessex defeats the Vikings at the [[Battle of Edington]], leading to the Treaty of Wedmore and the establishment of the Danelaw in England.
+
+## 880s
+
+- **885-886:** The Siege of Paris by Viking forces under Sigfred and Sinric; Paris is successfully defended by Odo, Count of Paris.
+- **889:** After the death of [[Charles the Fat]], the Carolingian Empire fragments further, accelerating the development of feudal states in Europe.
+
+## 890s
+
+- **895:** The Magyars, ancestors of modern Hungarians, begin their migration into the Carpathian Basin.
+- **899:** Death of [[Alfred the Great]], who is succeeded by his son [[Edward the Elder]], continuing the defense and consolidation of Anglo-Saxon England against Viking incursions.
+

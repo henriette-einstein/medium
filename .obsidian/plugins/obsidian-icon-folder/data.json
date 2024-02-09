@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPin",
+      "LiBookOpen",
       "LiHome",
       "LiCog",
-      "LiArchive",
-      "LiLibrary",
-      "LiTarget"
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,10 +29,10 @@
   },
   "00 Inbox": "LiInbox",
   "10 Calendar": "LiCalendar",
-  "20 Projects": "LiActivity",
-  "30 Areas": "LiTarget",
   "40 Ressources": "LiLibrary",
-  "50 Archive": "LiArchive",
   "90 System": "LiCog",
-  "Home.md": "LiHome"
+  "Home.md": "LiHome",
+  "20 Activities": "LiActivity",
+  "50 Sources": "LiBookOpen",
+  "30 Pinned": "LiPin"
 }

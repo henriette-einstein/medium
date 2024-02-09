@@ -1,4 +1,5 @@
 ---
+type: "[[MOC Type]]"
 created: 2024-01-30
 cssclasses:
   - list-cards
@@ -12,6 +13,6 @@ cssclasses:
 
 
 ```dataview
-table without id banner, ("[["+file.name+"]]") from #type/section 
+table without id banner, ("[["+file.name+"]]") where up = [[]] 
 sort sortkey
 ```

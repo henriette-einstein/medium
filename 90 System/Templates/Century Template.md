@@ -1,8 +1,8 @@
 ---
-up: "[[Century]]"
-tags:
-  - type/century
-created: {{date}}
+type: "[[Period]]"
+collections:
+  - "[[Century]]"
+created: "{{date}}"
 start: 
 end: 
 banner: "![[21_Century.png]]"
