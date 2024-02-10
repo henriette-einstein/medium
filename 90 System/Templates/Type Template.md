@@ -2,12 +2,13 @@
 up: "[[Types]]"
 tags:
   - type/type
-created: {{date}}
-key:
+created: "{{date}}"
 ---
 ## Collections
 ```dataview
-list from #type/collection 
-where type = [[]]
+list from "90 System" where type = [[]]
 ```
 ## Instances
+```dataview
+table from !"90 System" where type = [[]]
+```

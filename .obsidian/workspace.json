@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c768814113da30aa",
+        "id": "3d91dc4255d9d4f9",
         "type": "tabs",
         "children": [
           {
-            "id": "b376e17d283e849b",
+            "id": "c7e5b64dca9bd8b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Ressources/MOCs/History/History.md",
+                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e12621c74edfe07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 System/Types/Article Type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60b83a4627a8c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 System/System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90f98ff8362eab82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Activities/Blog/Mastering Aesthetics/Logistics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3776d246e5161ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Inbox/Inbox.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d4c424462f1063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Activities/Activities.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b245b8bb053c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Ressources/MOCs/History/History.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d36ec11530a72cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Activities/12 Centuries/12 Centuries in 12 Months.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 Activities/12 Centuries/12 Centuries in 12 Months.md",
+                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 Activities/12 Centuries/12 Centuries in 12 Months.md",
+                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Activities/12 Centuries/12 Centuries in 12 Months.md"
+                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md"
               }
             }
           },
@@ -232,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20 Activities/12 Centuries/12 Centuries in 12 Months.md"
+                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md"
               }
             }
           }
@@ -241,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,16 +167,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "wikipedia-search:Open Article": false
     }
   },
-  "active": "d36ec11530a72cca",
+  "active": "c7e5b64dca9bd8b6",
   "lastOpenFiles": [
+    "Clippings/Obsidian Web Clipper.md",
+    "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
+    "Clippings",
+    "40 Ressources/Weblinks/Wikipedia/Charlemagne.md",
+    "90 System/Collections/Weblink Template.md",
     "30 Pinned/Pinned.md",
-    "20 Activities/12 Centuries/To Process/Movements in Trade and Economics in the 9. Century.md",
     "Home.md",
-    "40 Ressources/MOCs/History/History.md",
+    "90 System/Types/Weblink.md",
+    "40 Ressources/Attachments/Images/Globes/Globe6.png",
+    "40 Ressources/Attachments/Images/Globes/Globe5.png",
+    "40 Ressources/Attachments/Images/Globes/Globe4.png",
+    "40 Ressources/Attachments/Images/Globes/Globe2.png",
+    "40 Ressources/Attachments/Images/Globes/Globe1.png",
+    "90 System/Templates/Type Template.md",
+    "40 Ressources/Weblinks/Wikipedia/Winston Churchill.md",
+    "90 System/Collections/Wikipedia.md",
+    "90 System/Types/Event Type.md",
+    "90 System/Types/Country Type.md",
+    "90 System/Types/Article Type.md",
+    "90 System/Collections/AI MOC.md",
+    "40 Ressources/Weblinks/Wikipedia",
+    "40 Ressources/Weblinks",
     "20 Activities/Blog/My Blog.md",
+    "20 Activities/12 Centuries/To Process/Movements in Trade and Economics in the 9. Century.md",
+    "40 Ressources/MOCs/History/History.md",
     "20 Activities/Activities.md",
     "00 Inbox/Inbox.md",
     "20 Activities/Blog/Mastering Aesthetics/Logistics.md",
@@ -270,18 +207,6 @@
     "90 System/Templates/Gallery Template.md",
     "40 Ressources/Attachments/Images/Religion/Religion Gallery.md",
     "40 Ressources/Attachments/Images/Organization/Organization Gallery.md",
-    "40 Ressources/Attachments/Images/Offices/Office Gallery.md",
-    "40 Ressources/Attachments/Images/Library/Library Gallery.md",
-    "40 Ressources/Attachments/Images/Company/Company Gallery.md",
-    "40 Ressources/Attachments/Images/Centuries/Centuries Gallery.md",
-    "40 Ressources/Attachments/Images/Bars/Bar Gallery.md",
-    "40 Ressources/Attachments/Images/Archives/Archives Gallery.md",
-    "40 Ressources/Attachments/Images/AI/AI Gallery.md",
-    "90 System/Templates/Image Template.md",
-    "40 Ressources/Images/Maps/Carolingian Empire before 843.md",
-    "40 Ressources/Images/Maps/Carolingian Empire after the Treaty of Verdun.md",
-    "90 System/Templates/Century Template.md",
-    "40 Ressources/Periods/Century/21. Century.md",
     "30 Pinned",
     "40 Ressources/Territory/Region",
     "40 Ressources/Territory/Country",
@@ -289,18 +214,10 @@
     "40 Ressources/Territory",
     "50 Sources/Highlights",
     "50 Sources/Articles",
-    "50 Sources/Books",
-    "40 Ressources/Canvases",
-    "50 Sources/PDF",
     "40 Ressources/Attachments/Images/Events/Event1.png",
     "40 Ressources/Attachments/Images/Hourglass/Vikings4.webp",
     "40 Ressources/Attachments/Images/Hourglass/Vikings3.webp",
     "40 Ressources/Attachments/Images/Hourglass/Vikings2.webp",
-    "40 Ressources/Attachments/Images/Hourglass/Vikings1.webp",
-    "40 Ressources/Attachments/Images/Hourglass/Ottoman Empire1.webp",
-    "40 Ressources/Attachments/Images/Hourglass/History3.webp",
-    "40 Ressources/Attachments/Images/Hourglass/History1.webp",
-    "40 Ressources/Attachments/Images/Hourglass/History2.webp",
-    "40 Ressources/Attachments/Note/Note4.webp"
+    "40 Ressources/Attachments/Images/Hourglass/Vikings1.webp"
   ]
 }
