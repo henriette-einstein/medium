@@ -1,5 +1,5 @@
 ---
-type: "[[Person]]"
+type: "[[Person Type]]"
 collections:
   - "[[Politician]]"
   - "[[Author]]"

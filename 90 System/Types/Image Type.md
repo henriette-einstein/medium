@@ -2,18 +2,14 @@
 up: "[[Types]]"
 tags:
   - type/type
-created: 2024-02-06
-key: type/image
-cssclasses:
-  - cards
+created: 2024-02-11
+displayname: Images
 ---
 ## Collections
 ```dataview
-list from #type/collection 
-where type = [[]]
+list without id link(file.name, displayname) from "90 System" and !"90 System/Templates" where type = [[]]
 ```
 ## Instances
 ```dataview
-table "![img]("+ url + ")" from #type/image and !"90 System"
+table collections from !"90 System" where type = [[]]
 ```
-

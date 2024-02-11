@@ -2,19 +2,19 @@
 up: "[[Types]]"
 tags:
   - type/type
-created: 2024-02-06
+created: 2024-02-11
 key: type/moc
 cssclasses:
   - banner-image
+displayname: MOCs
 ---
 >[!banner-image] ![[MOC1.webp]]
+
 ## Collections
 ```dataview
-list from #type/collection 
-where type = [[]]
+list without id link(file.name,displayname) from "90 System" and !"90 System/Templates" where type = [[]]
 ```
-
 ## Instances
 ```dataview
-table collections from #type/moc and !"90 System"
+table collections from !"90 System" or "90 System/System" where type = [[]]
 ```

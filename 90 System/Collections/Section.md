@@ -1,12 +1,13 @@
 ---
 up: "[[Collections]]"
-created: 2024-02-09
-type: "[[Weblink]]"
+type: "[[MOC Type]]"
+created: 2024-02-11
+displayname: Sections
 ---
 ## Instances
 
 ```dataview
 table from !"90 System" 
-where contains(tags, this.type.key)
+where type = this.type
 and contains(collections,[[]])
 ```

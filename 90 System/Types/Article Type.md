@@ -3,11 +3,11 @@ up: "[[Types]]"
 tags:
   - type/type
 created: 2024-02-09
-key: type/blogpost
+displayname: Articles
 ---
 ## Collections
 ```dataview
-list from #type/collection 
+list without id link(file.name, displayname) from #type/collection 
 where type = [[]]
 ```
 ## Instances

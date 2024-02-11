@@ -1,6 +1,8 @@
 ---
 up: "[[Home]]"
 type: "[[MOC Type]]"
+collections:
+  - "[[Section]]"
 created: 2024-02-09
 banner: "![[Office9.png]]"
 cssclasses:

@@ -3,12 +3,13 @@ up: "[[Types]]"
 tags:
   - type/type
 created: "{{date}}"
+displayname:
 ---
 ## Collections
 ```dataview
-list from "90 System" where type = [[]]
+list without id link(file.name, displayname) from "90 System" and !"90 System/Templates" where type = [[]]
 ```
 ## Instances
 ```dataview
-table from !"90 System" where type = [[]]
+table collections from !"90 System" where type = [[]]
 ```

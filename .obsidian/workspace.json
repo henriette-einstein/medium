@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d91dc4255d9d4f9",
+        "id": "e7cd7890b7ebc11f",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e5b64dca9bd8b6",
+            "id": "9dd7d6ba3fce849e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
+                "file": "90 System/Collections/Collections.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
+                "file": "90 System/Collections/Collections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
+                "file": "90 System/Collections/Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md"
+                "file": "90 System/Collections/Collections.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md"
+                "file": "90 System/Collections/Collections.md"
               }
             }
           }
@@ -171,53 +171,53 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "c7e5b64dca9bd8b6",
+  "active": "9dd7d6ba3fce849e",
   "lastOpenFiles": [
-    "Clippings/Obsidian Web Clipper.md",
-    "40 Ressources/Weblinks/Wikipedia/Carolingian Renaissance.md",
-    "Clippings",
-    "40 Ressources/Weblinks/Wikipedia/Charlemagne.md",
-    "90 System/Collections/Weblink Template.md",
-    "30 Pinned/Pinned.md",
-    "Home.md",
-    "90 System/Types/Weblink.md",
-    "40 Ressources/Attachments/Images/Globes/Globe6.png",
-    "40 Ressources/Attachments/Images/Globes/Globe5.png",
-    "40 Ressources/Attachments/Images/Globes/Globe4.png",
-    "40 Ressources/Attachments/Images/Globes/Globe2.png",
-    "40 Ressources/Attachments/Images/Globes/Globe1.png",
+    "90 System/System.md",
+    "90 System/Collections/Collections.md",
+    "40 Ressources/Ressources.md",
     "90 System/Templates/Type Template.md",
-    "40 Ressources/Weblinks/Wikipedia/Winston Churchill.md",
-    "90 System/Collections/Wikipedia.md",
+    "90 System/Types/Types.md",
+    "90 System/Types/Topic Type.md",
+    "90 System/Types/Territory Type.md",
+    "90 System/Types/Question Type.md",
+    "90 System/Types/Project Type.md",
+    "90 System/Types/Person Type.md",
+    "90 System/Types/Period Type.md",
+    "90 System/Types/Note Type.md",
+    "90 System/Types/MOC Type.md",
+    "90 System/Types/Image Type.md",
+    "90 System/Types/Gallery Type.md",
+    "90 System/Types/Concept Type.md",
     "90 System/Types/Event Type.md",
-    "90 System/Types/Country Type.md",
     "90 System/Types/Article Type.md",
-    "90 System/Collections/AI MOC.md",
+    "Home.md",
+    "90 System/Collections/Section.md",
+    "90 System/Collections/Ruler.md",
+    "90 System/Collections/Realm.md",
+    "90 System/Collections/Politician.md",
+    "90 System/Collections/Political Event.md",
+    "90 System/Collections/Map.md",
+    "90 System/Collections/Knowledge Management MOC.md",
+    "40 Ressources/Attachments/Images/People/People4.webp",
+    "40 Ressources/Attachments/Images/People/People3.png",
+    "40 Ressources/Attachments/Images/People/People5.webp",
+    "40 Ressources/Attachments/Images/Events/Event5.webp",
+    "40 Ressources/Attachments/Images/Events/Event4.webp",
+    "40 Ressources/Attachments/Images/People/People2.png",
+    "40 Ressources/Attachments/Images/People/People1.png",
+    "40 Ressources/Attachments/Images/Events/Event2.png",
+    "40 Ressources/Attachments/Images/Events/Event1.png",
+    "40 Ressources/Attachments/Images/Topics/Topic4.webp",
+    "40 Ressources/Attachments/Images/Topics",
+    "40 Ressources/Attachments/Images/Questions",
+    "Clippings",
     "40 Ressources/Weblinks/Wikipedia",
     "40 Ressources/Weblinks",
-    "20 Activities/Blog/My Blog.md",
-    "20 Activities/12 Centuries/To Process/Movements in Trade and Economics in the 9. Century.md",
-    "40 Ressources/MOCs/History/History.md",
-    "20 Activities/Activities.md",
-    "00 Inbox/Inbox.md",
-    "20 Activities/Blog/Mastering Aesthetics/Logistics.md",
-    "90 System/System.md",
-    "40 Ressources/Ressources.md",
-    "20 Activities/12 Centuries/12 Centuries in 12 Months.md",
-    "90 System/Templates/Gallery Template.md",
-    "40 Ressources/Attachments/Images/Religion/Religion Gallery.md",
-    "40 Ressources/Attachments/Images/Organization/Organization Gallery.md",
     "30 Pinned",
     "40 Ressources/Territory/Region",
     "40 Ressources/Territory/Country",
     "40 Ressources/Territory/Realm",
-    "40 Ressources/Territory",
-    "50 Sources/Highlights",
-    "50 Sources/Articles",
-    "40 Ressources/Attachments/Images/Events/Event1.png",
-    "40 Ressources/Attachments/Images/Hourglass/Vikings4.webp",
-    "40 Ressources/Attachments/Images/Hourglass/Vikings3.webp",
-    "40 Ressources/Attachments/Images/Hourglass/Vikings2.webp",
-    "40 Ressources/Attachments/Images/Hourglass/Vikings1.webp"
+    "40 Ressources/Territory"
   ]
 }

@@ -3,9 +3,10 @@ up: "[[Collections]]"
 tags:
   - type/collection
 created: 2024-02-07
-type: "[[Period]]"
+type: "[[Period Type]]"
 cssclasses:
   - cards
+displayname: Centuries
 ---
 ```dataview
 table 

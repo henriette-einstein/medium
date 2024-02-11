@@ -3,7 +3,8 @@ up: "[[Collections]]"
 tags:
   - type/collection
 created: 2024-02-06
-type: "[[Person]]"
+type: "[[Person Type]]"
+displayname: Politicians
 ---
 ## Instances
 

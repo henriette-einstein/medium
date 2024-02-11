@@ -2,15 +2,17 @@
 up: "[[Types]]"
 tags:
   - type/type
-cssclasses:
-  - cards
-  - table-max
 key: type/period
+created: 2024-02-11
+displayname: Periods
 ---
 ## Collections
 ```dataview
-list from #type/collection 
-where type = [[]]
+list without id link(file.name, displayname) from "90 System" and !"90 System/Templates" where type = [[]]
+```
+## Instances
+```dataview
+table start, end, collections from !"90 System" where type = [[]]
 ```
 
 ## Instances

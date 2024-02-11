@@ -1,6 +1,8 @@
 ---
 up: "[[Home]]"
 type: "[[MOC Type]]"
+collections:
+  - "[[Section]]"
 created: 2024-02-01
 cssclasses:
   - banner-image

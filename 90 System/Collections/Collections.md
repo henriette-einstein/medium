@@ -3,8 +3,8 @@ up: "[[System]]"
 type: "[[MOC Type]]"
 created: 2024-02-06
 ---
-Here is a list of all collections defined in this vault.
-
 ```dataview
-table type from #type/collection and !"90 System/Templates"
+table without id link(file.name, displayname) as "Collection", link(type, type.displayname) as "Type" 
+from #type/collection and !"90 System/Templates"
+sort displayname
 ```

@@ -1,12 +1,13 @@
 ---
 up: "[[Collections]]"
 created: "{{date}}"
-type:
+type: 
+displayname:
 ---
 ## Instances
 
 ```dataview
 table from !"90 System" 
-where contains(tags, this.type.key)
+where type = this.type
 and contains(collections,[[]])
 ```

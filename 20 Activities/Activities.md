@@ -1,6 +1,8 @@
 ---
 up: "[[Home]]"
 type: "[[MOC Type]]"
+collections:
+  - "[[Section]]"
 cssclasses:
   - banner-image
 banner: "![[Hourglass1.png]]"

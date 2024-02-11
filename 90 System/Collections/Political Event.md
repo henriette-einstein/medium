@@ -4,6 +4,7 @@ tags:
   - type/collection
 created: 2024-02-06
 type: "[[Event Type]]"
+displayname: Political Events
 ---
 ## Instances
 

@@ -6,11 +6,12 @@ created: 2024-02-06
 type: "[[Image Type]]"
 cssclasses:
   - cards
+displayname: Maps
 ---
 ## Instances
 
 ```dataview
-table "![img]("+ url + ")"
+table "!"+ link
 where type = this.type
 and contains(collections,[[]])
 ```

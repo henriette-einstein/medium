@@ -1,8 +1,10 @@
 ---
 up: "[[Activities]]"
+type: "[[MOC Type]]"
+collections:
+  - "[[Index]]"
 tags:
   - pinned
-type: "[[MOC Type]]"
 created: 2024-01-29
 cssclasses:
   - banner-image

@@ -4,6 +4,7 @@ tags:
   - type/collection
 created: 2024-02-08
 type: "[[MOC Type]]"
+displayname: MOCs about Historical Topics
 ---
 ## Instances
 

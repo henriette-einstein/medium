@@ -1,6 +1,6 @@
 ---
 up: "[[Activities]]"
-type: "[[Project]]"
+type: "[[Project Type]]"
 tags:
   - pinned
 created: 2024-01-30

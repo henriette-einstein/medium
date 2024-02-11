@@ -2,17 +2,14 @@
 up: "[[Types]]"
 tags:
   - type/type
-created: 2024-02-08
-key: type/territory
+created: 2024-02-11
+displayname: Territories
 ---
 ## Collections
 ```dataview
-list from #type/collection 
-where type = [[]]
+list without id link(file.name, displayname) from "90 System" and !"90 System/Templates" where type = [[]]
 ```
 ## Instances
-
 ```dataview
-table from #type/territory and !"90 System"
+table collections from !"90 System" where type = [[]]
 ```
-

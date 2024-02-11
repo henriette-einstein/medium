@@ -1,5 +1,5 @@
 ---
-type: "[[Person]]"
+type: "[[Person Type]]"
 collections:
   - "[[Ruler]]"
 created: 2024-02-08

@@ -7,6 +7,7 @@ created: 2024-02-01
 cssclasses:
   - banner-image
 banner: "![[AI5.png]]"
+displayname: MOCs about AI Topics
 ---
 >[!banner-image] ![[AI5.png]]
 

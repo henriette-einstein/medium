@@ -1,6 +1,8 @@
 ---
 up: "[[Home]]"
 type: "[[MOC Type]]"
+collections:
+  - "[[Section]]"
 created: 2024-01-30
 cssclasses:
   - banner-image
@@ -9,5 +11,7 @@ sortkey: 90 System
 ---
 >[!banner-image] ![[Kitchen5.png|py-60]]
 
-- [[Types]]
+## Configuration of this Vault
+
+- [[Types]] and [[Collections]]
 - [[Tags]]
