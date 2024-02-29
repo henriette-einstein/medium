@@ -4,22 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e7cd7890b7ebc11f",
+        "id": "c3808448acf77db0",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd7d6ba3fce849e",
+            "id": "6ac5538a09eec697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90 System/Collections/Collections.md",
-                "mode": "source",
+                "file": "50 Sources/50 Sources.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ef36fbea4c84cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Ressources/Types/Types.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gap",
+                "query": "tag:#Type/MOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +78,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e755d499a8370159",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 222.5
   },
   "right": {
     "id": "ecaa3922eeea57ef",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90 System/Collections/Collections.md",
+                "file": "40 Ressources/Types/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90 System/Collections/Collections.md",
+                "file": "40 Ressources/Types/Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +136,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90 System/Collections/Collections.md"
+                "file": "40 Ressources/Types/Types.md"
               }
             }
           },
@@ -147,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "90 System/Collections/Collections.md"
+                "file": "40 Ressources/Types/Types.md"
               }
             }
           }
@@ -156,68 +178,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "cmdr:Wikipedia Search: Link Article": false,
+      "wikipedia-search:Open Article": false,
       "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "wikipedia-search:Open Article": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9dd7d6ba3fce849e",
+  "active": "21ef36fbea4c84cb",
   "lastOpenFiles": [
-    "90 System/System.md",
-    "90 System/Collections/Collections.md",
-    "40 Ressources/Ressources.md",
-    "90 System/Templates/Type Template.md",
-    "90 System/Types/Types.md",
-    "90 System/Types/Topic Type.md",
-    "90 System/Types/Territory Type.md",
-    "90 System/Types/Question Type.md",
-    "90 System/Types/Project Type.md",
-    "90 System/Types/Person Type.md",
-    "90 System/Types/Period Type.md",
-    "90 System/Types/Note Type.md",
-    "90 System/Types/MOC Type.md",
-    "90 System/Types/Image Type.md",
-    "90 System/Types/Gallery Type.md",
-    "90 System/Types/Concept Type.md",
-    "90 System/Types/Event Type.md",
-    "90 System/Types/Article Type.md",
-    "Home.md",
-    "90 System/Collections/Section.md",
-    "90 System/Collections/Ruler.md",
-    "90 System/Collections/Realm.md",
-    "90 System/Collections/Politician.md",
-    "90 System/Collections/Political Event.md",
-    "90 System/Collections/Map.md",
-    "90 System/Collections/Knowledge Management MOC.md",
-    "40 Ressources/Attachments/Images/People/People4.webp",
-    "40 Ressources/Attachments/Images/People/People3.png",
-    "40 Ressources/Attachments/Images/People/People5.webp",
-    "40 Ressources/Attachments/Images/Events/Event5.webp",
-    "40 Ressources/Attachments/Images/Events/Event4.webp",
-    "40 Ressources/Attachments/Images/People/People2.png",
-    "40 Ressources/Attachments/Images/People/People1.png",
-    "40 Ressources/Attachments/Images/Events/Event2.png",
-    "40 Ressources/Attachments/Images/Events/Event1.png",
-    "40 Ressources/Attachments/Images/Topics/Topic4.webp",
-    "40 Ressources/Attachments/Images/Topics",
-    "40 Ressources/Attachments/Images/Questions",
-    "Clippings",
-    "40 Ressources/Weblinks/Wikipedia",
-    "40 Ressources/Weblinks",
-    "30 Pinned",
-    "40 Ressources/Territory/Region",
-    "40 Ressources/Territory/Country",
-    "40 Ressources/Territory/Realm",
-    "40 Ressources/Territory"
+    "40 Ressources/Types/Images/Images.md",
+    "40 Ressources/Types/Images/Bust of Charlemagne in the Aachen Cathedral.md",
+    "40 Ressources/Types/Persons/Rulers/Charlemagne.md",
+    "40 Ressources/Types/Persons/Politicians/Winston Churchill.md",
+    "40 Ressources/Types/Persons/Rulers/Alfred the Great.md",
+    "40 Ressources/Types/Persons/Rulers/Louis the Pius.md",
+    "40 Ressources/Types/Persons/Rulers/Harun al-Rashid.md",
+    "40 Ressources/Types/Persons/Rulers/Charles III..md",
+    "40 Ressources/Types/Persons/Persons.md",
+    "90 System/Templates/Image Template.md",
+    "90 System/Templates/Sources/Source Article Template.md",
+    "90 System/Templates/Sources/Source Book Template.md",
+    "90 System/Templates/Timeframes/Era Template.md",
+    "90 System/Templates/Sources",
+    "90 System/Templates/Timeframes/Age Template.md",
+    "90 System/Templates/Timeframes/Century Template.md",
+    "40 Ressources/Types/Types.md",
+    "90 System/Templates/Timeframes",
+    "40 Ressources/Types/Organizations/Organizations.md",
+    "40 Ressources/Types/Notes/Notes.md",
+    "40 Ressources/Types/Organizations",
+    "90 System/Tags/Type Note.md",
+    "40 Ressources/Types/Notes",
+    "40 Ressources/Types/Galleries/Galleries.md",
+    "90 System/Tags/Type Gallery.md",
+    "40 Ressources/Types/Galleries",
+    "90 System/Tags/Type Publication.md",
+    "40 Ressources/Types/Publications/Publications.md",
+    "90 System/Templates/Territories/Country Template.md",
+    "40 Ressources/Types/Questions/Questions.md",
+    "90 System/Tags/Type Question.md",
+    "40 Ressources/Types/Questions",
+    "40 Ressources/Types/Publications",
+    "90 System/Templates/Territories",
+    "90 System/Templates/Concepts",
+    "40 Ressources/Types/Projects",
+    "40 Ressources/Attachments/Images/Events/Conflict1.webp",
+    "40 Ressources/Attachments/Images/Source/Source1.webp",
+    "40 Ressources/Attachments/Images/Oil/Oil1.png",
+    "40 Ressources/Attachments/Images/Oil/Oil2.png",
+    "40 Ressources/Attachments/Images/Oil/Oil3.png",
+    "40 Ressources/Attachments/Images/Source/Source2.webp",
+    "40 Ressources/Attachments/Images/Source/Source3.webp",
+    "40 Ressources/Attachments/Images/Book/Book2.webp",
+    "40 Ressources/Attachments/Images/Book/Book1.webp",
+    "40 Ressources/Attachments/Images/Map/Map1.webp"
   ]
 }

@@ -1,2 +1,6 @@
 .env
 .DS_Store
+.obsidian/plugins/obsidian-languagetool-plugin/data.json
+.obsidian/plugins/obsidian-textgenerator-plugin/data.json
+
+

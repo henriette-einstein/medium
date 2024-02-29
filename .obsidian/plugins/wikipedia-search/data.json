@@ -6,7 +6,7 @@
   "templates": [
     {
       "name": "Default",
-      "templateString": "[{title}]({url})",
+      "templateString": "[{title on Wikipedia}]({url})",
       "createNote": false,
       "customPath": "",
       "useTemplateFile": false,
@@ -29,10 +29,10 @@
       "templateFilePath": ""
     },
     {
-      "name": "Weblink Note",
-      "templateString": "---\ntype: \"[[Weblink]]\"\ncollections: \"[[Wikipedia]]\"\ncreated: \"{{date}}\"\ntitle: \"{title}\"\nurl: \"{url}\"\nthumbnail: \"{thumbnail}\"\n---\n{thumbnail}\n{description}\n## See\n- [{title}]({url})",
-      "createNote": true,
-      "customPath": "40 Ressources/Weblinks/Wikipedia",
+      "name": "Thumbnail",
+      "templateString": "{thumbnail}",
+      "createNote": false,
+      "customPath": "",
       "useTemplateFile": false,
       "templateFilePath": ""
     }

@@ -1,5 +1,6 @@
 ---
-type: "[[Image Type]]"
+tags:
+  - Type/Image
 created: "{{date}}"
 url:
 ---

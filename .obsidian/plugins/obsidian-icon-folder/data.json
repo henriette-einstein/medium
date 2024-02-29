@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkle",
       "LiPin",
       "LiBookOpen",
       "LiHome",
-      "LiCog",
-      "LiArchive"
+      "LiCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,8 @@
   "40 Ressources": "LiLibrary",
   "90 System": "LiCog",
   "Home.md": "LiHome",
-  "20 Activities": "LiActivity",
   "50 Sources": "LiBookOpen",
-  "30 Pinned": "LiPin"
+  "20 Projects": "LiActivity",
+  "80 Highlights": "LiSparkle",
+  "30 Atlas": "LiPin"
 }

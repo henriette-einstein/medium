@@ -1,4 +1,5 @@
 ---
-type: "[[Note Type]]"
+tags:
+  - Type/Note
 created: "{{date}}"
 ---

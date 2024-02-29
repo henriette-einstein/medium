@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1707907133732,
+      "path": "00 Inbox/00 Inbox.md",
+      "title": "Inbox"
+    },
+    {
+      "type": "file",
+      "ctime": 1707905432795,
+      "path": "30 Atlas/Pinned.md",
+      "title": "Pinned"
+    },
+    {
+      "type": "group",
+      "ctime": 1707902826756,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1707903125288,
+          "path": "40 Ressources/Types/Concepts/Concepts.md",
+          "title": "Concepts"
+        },
+        {
+          "type": "file",
+          "ctime": 1707904535367,
+          "path": "40 Ressources/Types/Territories/Territories.md",
+          "title": "Countries"
+        },
+        {
+          "type": "group",
+          "ctime": 1707903311418,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1707903145678,
+              "path": "40 Ressources/Types/Events/Events.md",
+              "title": "All Events"
+            },
+            {
+              "type": "file",
+              "ctime": 1707903338442,
+              "path": "40 Ressources/Types/Events/Battle/Battle.md",
+              "title": "Battles"
+            },
+            {
+              "type": "file",
+              "ctime": 1707903493525,
+              "path": "40 Ressources/Types/Events/Conflict/Conflict.md",
+              "title": "Conflicts"
+            },
+            {
+              "type": "file",
+              "ctime": 1707907014929,
+              "path": "40 Ressources/Types/Events/Political Event/Political Event.md",
+              "title": "Political Events"
+            }
+          ],
+          "title": "Events"
+        },
+        {
+          "type": "file",
+          "ctime": 1707903223448,
+          "path": "90 System/Tags/Type Gallery.md",
+          "title": "Galleries"
+        },
+        {
+          "type": "file",
+          "ctime": 1707903272530,
+          "path": "90 System/Tags/Type Image.md",
+          "title": "Images"
+        },
+        {
+          "type": "file",
+          "ctime": 1707904671209,
+          "path": "90 System/Tags/Type MOC.md",
+          "title": "MOCs"
+        },
+        {
+          "type": "file",
+          "ctime": 1707904771306,
+          "path": "90 System/Tags/Type Note.md",
+          "title": "Notes"
+        },
+        {
+          "type": "file",
+          "ctime": 1707905311390,
+          "path": "90 System/Tags/Type Project.md",
+          "title": "Projects"
+        },
+        {
+          "type": "file",
+          "ctime": 1707905558938,
+          "path": "90 System/Tags/Type Publication.md",
+          "title": "Publications"
+        },
+        {
+          "type": "file",
+          "ctime": 1707905521220,
+          "path": "90 System/Tags/Type Question.md",
+          "title": "Questions"
+        },
+        {
+          "type": "group",
+          "ctime": 1707903544927,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1707903564897,
+              "path": "40 Ressources/Types/Persons/Authors/Authors.md",
+              "title": "Authors"
+            },
+            {
+              "type": "file",
+              "ctime": 1707903663490,
+              "path": "40 Ressources/Types/Persons/Politicians/Politicians.md",
+              "title": "Politicians"
+            },
+            {
+              "type": "file",
+              "ctime": 1707903738406,
+              "path": "40 Ressources/Types/Persons/Rulers/Rulers.md",
+              "title": "Rulers"
+            }
+          ],
+          "title": "Persons"
+        },
+        {
+          "type": "group",
+          "ctime": 1707904916922,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1707905112516,
+              "path": "90 System/Collections/Timeframe Century.md",
+              "title": "Centuries"
+            },
+            {
+              "type": "file",
+              "ctime": 1707905141568,
+              "path": "90 System/Collections/Timeframe Age.md",
+              "title": "Historical Ages"
+            },
+            {
+              "type": "file",
+              "ctime": 1707905166893,
+              "path": "90 System/Collections/Timeframe Era.md",
+              "title": "Historical Era"
+            }
+          ],
+          "title": "Timeframe"
+        },
+        {
+          "type": "file",
+          "ctime": 1707905227002,
+          "path": "90 System/Tags/Type Topic.md",
+          "title": "Topics"
+        }
+      ],
+      "title": "Types"
+    }
+  ]
+}

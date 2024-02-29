@@ -1,5 +1,6 @@
 ---
-type: "[[Gallery Type]]"
+tags:
+  - Type/Gallery
 created: "{{date}}"
 cssclasses:
   - img-grid

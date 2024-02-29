@@ -1,3 +1,8 @@
+.markdown-rendered h1 .internal-link {
+  text-decoration: underline;
+  color: inherit;
+}
+
 .banner-image img[alt*="py-0"] {
   object-position: center 0%;
 }

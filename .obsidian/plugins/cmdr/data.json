@@ -4,7 +4,14 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "wikipedia-search:link-article",
+      "icon": "package-search",
+      "name": "Wikipedia Search: Link Article",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -19,6 +26,12 @@
       "id": "backlink:toggle-backlinks-in-document",
       "icon": "lucide-link",
       "name": "Backlinks: Toggle backlinks in document",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:toggle-pin",
+      "icon": "lucide-pin",
+      "name": "Toggle pin",
       "mode": "any"
     }
   ],

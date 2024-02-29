@@ -1,8 +1,8 @@
 ---
-type: "[[Event Type]]"
-collection: 
-tags: 
+tags:
+  - Type/Event
 created: "{{}}"
 start: 
-end:
+end: 
+location:
 ---

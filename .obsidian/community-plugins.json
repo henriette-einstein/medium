@@ -5,7 +5,10 @@
   "obsidian-icon-folder",
   "homepage",
   "cmdr",
-  "tag-wrangler",
   "obsidian-sortable",
-  "wikipedia-search"
+  "wikipedia-search",
+  "obsidian-languagetool-plugin",
+  "templater-obsidian",
+  "folder-notes",
+  "tag-wrangler"
 ]

@@ -8,6 +8,7 @@
     "end": "date",
     "born": "date",
     "died": "date",
-    "collections": "multitext"
+    "collections": "multitext",
+    "periods": "multitext"
   }
 }

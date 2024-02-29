@@ -1,5 +1,5 @@
 ---
-type: "[[MOC Type]]"
-collections: 
+tags:
+  - Type/MOC
 created: "{{date}}"
 ---

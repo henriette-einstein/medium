@@ -405,7 +405,7 @@ async function getArticleIntros(titles, languageCode, cleanup) {
     var _a;
     const extract = (_a = page.extract.trim()) != null ? _a : null;
     if (extract && cleanup) {
-      return extract.replaceAll("\\displaystyle ", "").replaceAll("\n", "").replaceAll(/  +/g, " ").replaceAll(/\.\w/g, (text) => text.split("").join(" "));
+      return extract.replaceAll(/{\\displaystyle [^\n]+}/g, (text) => "$" + text.slice(15, -1).trim() + "$").replaceAll("\n ", "").replaceAll(/  \S  /g, "").replaceAll(/  +/g, " ");
     }
     return extract;
   });
@@ -624,7 +624,7 @@ var LinkArticleTemplateModal = class extends TemplateModal {
 async function insertLink(app2, editor, settings, article, template) {
   var _a, _b;
   let templateString = template.templateString;
-  if (template.useTemplateFile) {
+  if (template.useTemplateFile && template.createNote) {
     const templateFile = app2.vault.getAbstractFileByPath(template.templateFilePath);
     if (!templateFile || !(templateFile instanceof import_obsidian6.TFile)) {
       new import_obsidian6.Notice(`Aborting! Template file '${template.templateFilePath}' not found!`);
@@ -2465,7 +2465,7 @@ var WikipediaSearchSettingTab = class extends import_obsidian10.PluginSettingTab
     div.innerHTML = appendix;
   }
   addTemplateSettings(containerEl) {
-    for (const [i, template] of this.settings.templates.entries()) {
+    for (let [i, template] of this.settings.templates.entries()) {
       const isDefaultTemplate = i == 0;
       let setting = new import_obsidian10.Setting(containerEl);
       setting.settingEl.removeChild(setting.infoEl);
@@ -2474,7 +2474,7 @@ var WikipediaSearchSettingTab = class extends import_obsidian10.PluginSettingTab
       setting.addText((text) => {
         if (isDefaultTemplate)
           text.setDisabled(true);
-        return text.setValue(isDefaultTemplate ? "Default Template" : template.name).setPlaceholder("Name").onChange(async (value) => {
+        return text.setPlaceholder("Name").setValue(isDefaultTemplate ? "Default Template" : template.name).onChange(async (value) => {
           template.name = value;
           await this.plugin.saveSettings();
         });

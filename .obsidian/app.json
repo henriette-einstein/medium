@@ -2,5 +2,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Inbox",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheckDictionary": [
+    "Wurman"
+  ]
 }
